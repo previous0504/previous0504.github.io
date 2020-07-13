@@ -1765,6 +1765,18 @@ img:hover {
     -moz-transform: rotateZ(-360deg);
   }
 }
+.site-author-name {
+  margin: 0;
+  text-align: center;
+  color: #222;
+  font-weight: 600;
+}
+.site-description {
+  margin-top: 0;
+  text-align: center;
+  font-size: 13px;
+  color: #999;
+}
 @-moz-keyframes play {
   0% {
     -webkit-transform: rotateZ(0deg);
@@ -1900,7 +1912,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a8fff5;
+  background: #ff45ff;
 }
 .links-of-blogroll {
   font-size: 13px;
